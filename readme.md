@@ -2,7 +2,7 @@
 ==== Wordpress用htaccessテンプレート ====
 
 ##Overview
-海外からの不正アクセスがウザいのでテンプレートを作っておきました。
+海外からの不正アクセス防止のテンプレートを作っておきました。
 
 ## Description
 日本以外の国からのwp-admin|wp-login.php|xmlrpc.php|wp-cron.php
